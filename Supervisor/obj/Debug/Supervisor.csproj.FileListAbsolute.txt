@@ -1,0 +1,1358 @@
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.Form_Balanceo.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\obj\Debug\Supervisor.BlanqueoClave.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.BlanqueoClave.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.Form_Balanceo.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - copia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Balanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Balanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Balanceo.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.Balanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\Supervisor\obj\Debug\Supervisor.Contraseña.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.Balanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.Balanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.Balanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Iniciando.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Iniciando.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Iniciando.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\MySql.Data.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Google.Protobuf.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Zstandard.Net.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\Renci.SshNet.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Memory.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Buffers.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\MySql.Data.xml
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\bin\Debug\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.exe.config
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.FormBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.ConfirmarBalanceo.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Dispensar.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.ErrorTimeout.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.FormError.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Iniciando.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.IniciarSesion.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Inicio.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.SesionCliente.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.SesionIniciada.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.Supervisor.resources
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\Supervisor\obj\Debug\Supervisor.pdb

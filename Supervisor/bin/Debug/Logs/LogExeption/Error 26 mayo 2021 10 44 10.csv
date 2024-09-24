@@ -1,0 +1,2 @@
+Error message: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:4500 Stack trace:    en System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   en Supervisor.Inicio.Inicio_Load(Object sender, EventArgs e) en C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\Supervisor\Inicio.cs:línea 41

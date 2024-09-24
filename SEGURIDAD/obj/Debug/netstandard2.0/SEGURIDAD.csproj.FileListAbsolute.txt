@@ -1,0 +1,352 @@
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\SEGURIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\NEGOCIO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\SEGURIDAD\obj\Debug\netstandard2.0\SEGURIDAD.pdb

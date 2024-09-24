@@ -1,0 +1,348 @@
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Proyecto_Supervisor\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - panel supervisor - nuevos fondos - logs por dia\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 26-04-2021\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIMO\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 29-04-2021 - Nuevo algoritmo\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 12-5 - Pantalla inicio nueva\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 12-5 - Pantalla inicio nueva - backup funcionando 18-5\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\DISPENSADOR MATI\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\VersionFinal\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 18-5 Funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 19-5 funcionando\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Carga archivo supervisor - VERSION 20-05\Supervisor - Version 20-5 funcionando - copia\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\PRUEBA FINAL\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 21-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando -\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Version 27-5 funcionando - - copia\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\PROYECTOS FINALES\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\ULTIM\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Ignacio\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.deps.json
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\DAO.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\bin\Debug\netstandard2.0\ENTIDAD.pdb
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csprojAssemblyReference.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.AssemblyInfo.cs
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.csproj.CopyComplete
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.dll
+C:\Users\Alfredo Eichenberger\Desktop\Supervisor - Ultima version (28-5)\Supervisor\DAO\obj\Debug\netstandard2.0\DAO.pdb
